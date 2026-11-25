@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá! Eu sou o Mauricio Rego Siqueira 👋
 
-<!--
-**Mauricio-Siqueira/Mauricio-Siqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS)
+💻 Analista de Suporte de TI | Em transição e foco para Python & Back-end
+📍 Indaiatuba, SP - Brasil
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e Ferramentas
+Back-end: Python 3 (lógica de programação, tratamento de exceções, estruturas de dados)
+Ferramentas: Git, GitHub, VS Code
+
+🚀📖 Projetos em Destaque
+
+🦇 Batman - Catálogo de Filmes / Aplicação web interativa para busca e consulta de filmes do Batman / HTML, CSS, JavaScript / Linkc: https://mauricio-siqueira.github.io/Batman/
+
+📚 Estudos de Python / Anotações, exercícios de lógica e mini projetos práticos (como calculadora) / Python 3 / Link: https://github.com/Mauricio-Siqueira/Estudos
+
+
+📫 Contato
+LinkedIn: linkedin.com/in/mauricio-siqueira-dev
+E-mail: mauricio.rsiqueira009@gmail.com
